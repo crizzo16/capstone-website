@@ -16,14 +16,24 @@ Tags: custom, green
 :root {
   --color-primary: #849568;
   --color-primary-light: #cadcad;
+  --color-primary-dark: #5b6c3f;
   --color-secondary: #515151;
   --color-accent: #BB905D;
   --color-background: #fffdf3;
+  --color-background-secondary: #f6fcee;
   --color-text: #1e293b;
 }
 
 body {
   background: var(--color-background);
+}
+
+.text-bld {
+  font-weight: bold;
+}
+
+.border-primary {
+  border-color: var(--color-primary);
 }
 
 @layer base {
@@ -83,5 +93,10 @@ body {
 .header-logo {
   border-radius: 2vh;
   margin: 10px 0px;
+}
+
+.bg-main-green {
+  background-color: var(--color-primary-dark);
+  font-weight: bold;
 }
 

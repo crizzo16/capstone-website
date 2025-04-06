@@ -14,19 +14,19 @@ const Header = () => {
   };
 
   return (
-    <header className="bg-white shadow-sm sticky top-0 z-50">
+    <header className="bg-main-green shadow-sm sticky top-0 z-50">
       <nav className="container-custom h-16 flex items-center justify-between">
         {/* Desktop Left Links */}
         <div className="hidden sm:flex items-center space-x-6">
           <button
             onClick={() => scrollToSection('functionality')}
-            className="text-[var(--color-secondary)] hover:text-[var(--color-primary)] transition-colors"
+            className="text-[var(--color-background)] hover:text-[var(--color-primary-light)] transition-colors"
           >
             Functionality
           </button>
           <button
             onClick={() => scrollToSection('download')}
-            className="text-[var(--color-secondary)] hover:text-[var(--color-primary)] transition-colors"
+            className="text-[var(--color-background)] hover:text-[var(--color-primary-light)] transition-colors"
           >
             Download
           </button>
@@ -41,13 +41,13 @@ const Header = () => {
         <div className="hidden sm:flex items-center space-x-6">
           <button
             onClick={() => scrollToSection('installation')}
-            className="text-[var(--color-secondary)] hover:text-[var(--color-primary)] transition-colors"
+            className="text-[var(--color-background)] hover:text-[var(--color-primary-light)] transition-colors"
           >
             Installation
           </button>
           <button
             onClick={() => scrollToSection('team')}
-            className="text-[var(--color-secondary)] hover:text-[var(--color-primary)] transition-colors"
+            className="text-[var(--color-background)] hover:text-[var(--color-primary-light)] transition-colors"
           >
             Team
           </button>
