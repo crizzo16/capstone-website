@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/capstone-website/static/css/main.79dd283f.css",
-    "main.js": "/capstone-website/static/js/main.94107311.js",
-    "static/js/453.6657ba7c.chunk.js": "/capstone-website/static/js/453.6657ba7c.chunk.js",
-    "static/media/Celia.jpg": "/capstone-website/static/media/Celia.fed1724b9c6114d99067.jpg",
-    "static/media/Screenshot 2025-03-30 at 8.22.10 AM.png": "/capstone-website/static/media/Screenshot 2025-03-30 at 8.22.10 AM.5cc403aa1291feca8943.png",
-    "static/media/Unzip folder.png": "/capstone-website/static/media/Unzip folder.2e0d5a6efcb4fa72c4eb.png",
-    "static/media/Select Extension.png": "/capstone-website/static/media/Select Extension.1f9d5aa587c932bb6893.png",
-    "static/media/Developer Mode.png": "/capstone-website/static/media/Developer Mode.c8b15c878265bfebd233.png",
-    "static/media/David.png": "/capstone-website/static/media/David.689b5fb8d2d26d1f3ea0.png",
-    "static/media/Pin Extension.png": "/capstone-website/static/media/Pin Extension.dabbf5f1b0bfe8786dbd.png",
-    "static/media/Brian.png": "/capstone-website/static/media/Brian.c03260cdc79cc5d8eb16.png",
-    "static/media/Better Logo.png": "/capstone-website/static/media/Better Logo.eb5599bd69b2e3253fee.png",
-    "static/media/Marc.png": "/capstone-website/static/media/Marc.f7bb4be1102b8d16b02e.png",
-    "static/media/Monica.jpeg": "/capstone-website/static/media/Monica.43aad50efb833f743114.jpeg",
-    "index.html": "/capstone-website/index.html",
-    "main.79dd283f.css.map": "/capstone-website/static/css/main.79dd283f.css.map",
-    "main.94107311.js.map": "/capstone-website/static/js/main.94107311.js.map",
-    "453.6657ba7c.chunk.js.map": "/capstone-website/static/js/453.6657ba7c.chunk.js.map"
+    "main.css": "/static/css/main.79dd283f.css",
+    "main.js": "/static/js/main.dc6a733d.js",
+    "static/js/453.6657ba7c.chunk.js": "/static/js/453.6657ba7c.chunk.js",
+    "static/media/Celia.jpg": "/static/media/Celia.fed1724b9c6114d99067.jpg",
+    "static/media/Screenshot 2025-03-30 at 8.22.10 AM.png": "/static/media/Screenshot 2025-03-30 at 8.22.10 AM.5cc403aa1291feca8943.png",
+    "static/media/Unzip folder.png": "/static/media/Unzip folder.2e0d5a6efcb4fa72c4eb.png",
+    "static/media/Select Extension.png": "/static/media/Select Extension.1f9d5aa587c932bb6893.png",
+    "static/media/Developer Mode.png": "/static/media/Developer Mode.c8b15c878265bfebd233.png",
+    "static/media/David.png": "/static/media/David.689b5fb8d2d26d1f3ea0.png",
+    "static/media/Pin Extension.png": "/static/media/Pin Extension.dabbf5f1b0bfe8786dbd.png",
+    "static/media/Brian.png": "/static/media/Brian.c03260cdc79cc5d8eb16.png",
+    "static/media/Better Logo.png": "/static/media/Better Logo.eb5599bd69b2e3253fee.png",
+    "static/media/Marc.png": "/static/media/Marc.f7bb4be1102b8d16b02e.png",
+    "static/media/Monica.jpeg": "/static/media/Monica.43aad50efb833f743114.jpeg",
+    "index.html": "/index.html",
+    "main.79dd283f.css.map": "/static/css/main.79dd283f.css.map",
+    "main.dc6a733d.js.map": "/static/js/main.dc6a733d.js.map",
+    "453.6657ba7c.chunk.js.map": "/static/js/453.6657ba7c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79dd283f.css",
-    "static/js/main.94107311.js"
+    "static/js/main.dc6a733d.js"
   ]
 }
