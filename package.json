@@ -1,8 +1,8 @@
 {
   "name": "capstone-website",
   "version": "0.1.0",
-  "homepage": "https://crizzo.github.io/capstone-website",
-  "private": true,
+  "homepage": "https://deepbeautyai.app/",
+  "private": false,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",

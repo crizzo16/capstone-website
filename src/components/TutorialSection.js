@@ -11,7 +11,7 @@ const TutorialSection = () => {
     <section id="installation" className="py-12 bg-background">
       <div className="container-custom">
         <h1 className="text-4xl font-bold text-[var(--color-primary)] mb-6">
-          Installation Guide
+          Installation & Use Guide
         </h1>
         <div className="space-y-8">
           {/* Step 1 */}
@@ -59,7 +59,7 @@ const TutorialSection = () => {
             </p>
           </div>
 
-          {/* Step 4 */}
+          {/* Optional Step  */}
           <div className="bg-[var(--color-background-secondary)] p-8 rounded-lg border border-primary">
             <div className="flex items-center gap-3 mb-4">
               <Pin className="h-6 w-6 text-[var(--color-primary)]" />
@@ -74,18 +74,33 @@ const TutorialSection = () => {
             </p>
           </div>
 
+          {/* Step 4 */}
+          <div className="bg-[var(--color-background-secondary)] p-8 rounded-lg border border-primary">
+            <div className="flex items-center gap-3 mb-4">
+              <ShoppingBag className="h-6 w-6 text-[var(--color-primary)]" />
+              <h2 className="text-2xl font-semibold text-[var(--color-primary)]">Step 4: Find a Product</h2>
+            </div>
+            <p className="text-[var(--color-secondary)] mb-4">
+              Navigate to the <a href="https://www.sephora.com" className="important-text" target="_blank" rel="noopener noreferrer">Sephora website</a> and select a product. Once on the page, please reload to ensure that the extension can properly import the information from the page. Click on the <span>DeepBeauty AI</span> extension icon in the upper right of your web browser to open the extension
+            </p>
+            <img className="rounded-md mb-4 tutorial-img" src={tempUsageImage} alt="Extension usage" />
+            <p className="text-[var(--color-accent)] text-sm text-bld">
+              💡 Tip: Reloading the webpage will ensure that the extension can properly read all information on the webpage.
+            </p>
+          </div>
+
           {/* Step 5 */}
           <div className="bg-[var(--color-background-secondary)] p-8 rounded-lg border border-primary">
             <div className="flex items-center gap-3 mb-4">
               <ShoppingBag className="h-6 w-6 text-[var(--color-primary)]" />
-              <h2 className="text-2xl font-semibold text-[var(--color-primary)]">Step 4: Start Browsing</h2>
+              <h2 className="text-2xl font-semibold text-[var(--color-primary)]">Step 5: Browse Dupes</h2>
             </div>
             <p className="text-[var(--color-secondary)] mb-4">
-              Navigate to the <a href="https://www.sephora.com" className="important-text" target="_blank" rel="noopener noreferrer">Sephora website</a> and select a product. Once you have opened the page of a specific product, click the Extension icon on the upper right of your screen to open DeepBeauty AI. It will then load a few different potential dupes of the current product you're viewing.
+              After <span>DeepBeauty AI</span> analyzes your selected product, it will return a few matches to explore. Scroll through the images and click on them to see more information about the specific product and how similar it is to your chosen Sephora Product. If you would like to purchase this product, click on the Google Shopping link to see options for where to buy the product.
             </p>
             <img className="rounded-md mb-4 tutorial-img" src={tempUsageImage} alt="Extension usage" />
             <p className="text-[var(--color-accent)] text-sm text-bld">
-              💡 Tip: If the extension isn't loading properly, try refreshing the page.
+              💡 Tip: .
             </p>
           </div>
         </div>
