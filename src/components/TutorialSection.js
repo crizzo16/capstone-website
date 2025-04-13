@@ -5,6 +5,8 @@ import DeveloperModeImage from '../images/Developer Mode.png';
 import SelectFolderImage from '../images/Select Extension.png';
 import PinExtensionImage from '../images/Pin Extension.png';
 import tempUsageImage from '../images/Screenshot 2025-03-30 at 8.22.10 AM.png';
+import productPageImage from '../images/Product Page.png';
+import workingExtensionImage from '../images/Working Extension.png';
 
 const TutorialSection = () => {
   return (
@@ -83,7 +85,7 @@ const TutorialSection = () => {
             <p className="text-[var(--color-secondary)] mb-4">
               Navigate to the <a href="https://www.sephora.com" className="important-text" target="_blank" rel="noopener noreferrer">Sephora website</a> and select a product. Once on the page, please reload to ensure that the extension can properly import the information from the page. Click on the <span>DeepBeauty AI</span> extension icon in the upper right of your web browser to open the extension
             </p>
-            <img className="rounded-md mb-4 tutorial-img" src={tempUsageImage} alt="Extension usage" />
+            <img className="rounded-md mb-4 tutorial-img" src={productPageImage} alt="Extension usage" />
             <p className="text-[var(--color-accent)] text-sm text-bld">
               💡 Tip: Reloading the webpage will ensure that the extension can properly read all information on the webpage.
             </p>
@@ -98,7 +100,7 @@ const TutorialSection = () => {
             <p className="text-[var(--color-secondary)] mb-4">
               After <span>DeepBeauty AI</span> analyzes your selected product, it will return a few matches to explore. Scroll through the images and click on them to see more information about the specific product and how similar it is to your chosen Sephora Product. If you would like to purchase this product, click on the Google Shopping link to see options for where to buy the product.
             </p>
-            <img className="rounded-md mb-4 tutorial-img" src={tempUsageImage} alt="Extension usage" />
+            <img className="rounded-md mb-4 tutorial-img" src={workingExtensionImage} alt="Extension usage" />
             <p className="text-[var(--color-accent)] text-sm text-bld">
               💡 Tip: .
             </p>
