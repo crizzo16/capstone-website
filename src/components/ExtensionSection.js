@@ -18,7 +18,7 @@ const ExtensionSection = () => {
         <div className="grid gap-12 items-center">
           {/* Video Section */}
           <div className="aspect-video w-full bg-gray-100 rounded-xl overflow-hidden shadow-lg">
-          <iframe width="100%" height="100%" src="https://www.loom.com/embed/4087ba8ad70a4bd292aba010354fb8e9?sid=71359862-cbee-4b0f-997c-440929e88ceb" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          <iframe width="100%" height="100%" src="https://www.youtube.com/embed/D6_WSpcSbvU?si=7ZxP8Nj42ue5WR26" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </div>
         </div>
 
