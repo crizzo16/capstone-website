@@ -18,7 +18,7 @@ const ExtensionSection = () => {
         <div className="grid gap-12 items-center">
           {/* Video Section */}
           <div className="aspect-video w-full bg-gray-100 rounded-xl overflow-hidden shadow-lg">
-            <div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/4087ba8ad70a4bd292aba010354fb8e9?sid=40c0b827-28a5-421a-a2ca-e5793df47a36" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+          <iframe width="100%" height="100%" src="https://www.loom.com/embed/4087ba8ad70a4bd292aba010354fb8e9?sid=71359862-cbee-4b0f-997c-440929e88ceb" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
           </div>
         </div>
 
