@@ -102,7 +102,7 @@ const TutorialSection = () => {
             </p>
             <img className="rounded-md mb-4 tutorial-img" src={workingExtensionImage} alt="Extension usage" />
             <p className="text-[var(--color-accent)] text-sm text-bld">
-              💡 Tip: .
+              💡 Tip: Not all products on Sephora.com are supported by DeepBeauty, such as Haircare.
             </p>
           </div>
         </div>
