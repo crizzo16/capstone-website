@@ -13,7 +13,7 @@ const DownloadSection = () => {
             To use the extension, download the zip folder to your computer and follow the tutorial below to set it up.
           </p>
           <a
-            href="/DeepBeauty AI Extension.zip"
+            href="%PUBLIC_URL%/components/DeepBeauty AI Extension.zip"
             download
             className="inline-flex items-center px-6 py-3 bg-[var(--color-background)] text-[var(--color-primary)] rounded-lg hover:bg-[var(--color-primary-light)] transition-colors gap-2 text-lg font-semibold"
           >
