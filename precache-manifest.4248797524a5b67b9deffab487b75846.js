@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "874d687fc4dd83029c7a8c4af4e9ead9",
+    "revision": "a292d19f1e4a8e0c8dd8cbed08c9ab70",
     "url": "/index.html"
   },
   {
-    "revision": "76e6b5546d054a5e8b02",
-    "url": "/static/css/main.b29aae7f.chunk.css"
+    "revision": "12d15f66e3bdbd2889b4",
+    "url": "/static/css/main.221d30aa.chunk.css"
   },
   {
-    "revision": "a38231fa8cf2701bbedb",
-    "url": "/static/js/2.2b5afd34.chunk.js"
+    "revision": "5852fa7e58877f8e975b",
+    "url": "/static/js/2.a99c4283.chunk.js"
   },
   {
     "revision": "26328c61e7e5db625dac4fff64d27cb8",
-    "url": "/static/js/2.2b5afd34.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a99c4283.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0b2124ed42f2f12e64bd",
-    "url": "/static/js/3.222e1668.chunk.js"
+    "revision": "b115b0b02c7ed723bddd",
+    "url": "/static/js/3.ce5c4098.chunk.js"
   },
   {
-    "revision": "76e6b5546d054a5e8b02",
-    "url": "/static/js/main.3c93d074.chunk.js"
+    "revision": "12d15f66e3bdbd2889b4",
+    "url": "/static/js/main.e4af1068.chunk.js"
   },
   {
-    "revision": "9016feca429f7a37279d",
-    "url": "/static/js/runtime-main.a649663b.js"
+    "revision": "058bfaeb17aa64c900a7",
+    "url": "/static/js/runtime-main.a8b577af.js"
   },
   {
     "revision": "36708a13a0736ea3b1fd9f4402b828db",
@@ -56,24 +56,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Monica.5ee473ee.jpeg"
   },
   {
-    "revision": "ce1dd5b3533fa42ea7c16bd5f9815ccf",
-    "url": "/static/media/Pin Extension.ce1dd5b3.png"
+    "revision": "a1848deb179ed36a22b487d7dd007323",
+    "url": "/static/media/Pin Extension.a1848deb.png"
   },
   {
     "revision": "eb3c34a8f9a2c5e44c163a14b32aae56",
     "url": "/static/media/Product Page.eb3c34a8.png"
   },
   {
-    "revision": "6fd6c16e83d5df74f4580c73f3c69068",
-    "url": "/static/media/Screenshot 2025-03-30 at 8.22.10 AM.6fd6c16e.png"
+    "revision": "7c7e8611586658123035dc58796fa138",
+    "url": "/static/media/Select Extension.7c7e8611.png"
   },
   {
-    "revision": "7a0e4bd39fedd8536cb46d026fdd4b9c",
-    "url": "/static/media/Select Extension.7a0e4bd3.png"
-  },
-  {
-    "revision": "4f01beaa062d20ccd5d7f2301addd4f3",
-    "url": "/static/media/Unzip folder.4f01beaa.png"
+    "revision": "301df66d7d25985b079bdf16c520fdfd",
+    "url": "/static/media/Unzip folder.301df66d.png"
   },
   {
     "revision": "23d4696adfc84e33651d22b261a26841",
