@@ -4,7 +4,6 @@ import UnZipImage from '../images/Unzip folder.png';
 import DeveloperModeImage from '../images/Developer Mode.png';
 import SelectFolderImage from '../images/Select Extension.png';
 import PinExtensionImage from '../images/Pin Extension.png';
-import tempUsageImage from '../images/Screenshot 2025-03-30 at 8.22.10 AM.png';
 import productPageImage from '../images/Product Page.png';
 import workingExtensionImage from '../images/Working Extension.png';
 
@@ -53,7 +52,7 @@ const TutorialSection = () => {
               <h2 className="text-2xl font-semibold text-[var(--color-primary)]">Step 3: Load the Extension</h2>
             </div>
             <p className="text-[var(--color-secondary)] mb-4">
-              Select <span>Load unpacked</span>, and navigate to the folder where you downloaded and extracted the folder in Step 1. Select the folder of the extension. Once you've selected the folder, you'll see the extension load among your other extensions. You can also see more details, remove the extension, and turn the extension off temporarily on this page.
+              Select <span className="text-bold">Load unpacked</span>, and navigate to the folder where you downloaded and extracted the folder in Step 1. If you are on a PC, you will need to click into the unpacked folder to see the actual extension folder. <br/><br/>Select the folder of the extension. Once you've selected the folder, you'll see the extension load among your other extensions. You can also see more details, remove the extension, and turn the extension off temporarily on this page.
             </p>
             <img className="rounded-md mb-4 tutorial-img" src={SelectFolderImage} alt="Select Extension Folder" />
             <p className="text-[var(--color-accent)] text-sm text-bld">
